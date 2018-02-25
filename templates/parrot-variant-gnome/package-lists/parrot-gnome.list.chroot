@@ -9,11 +9,11 @@ parrot-drivers
 vinagre
 etherape
 torchat
-vlc
-mpv
+##vlc
+##mpv
 galculator
-electrum
-electrum-ltc
+##electrum
+##electrum-ltc
 
 ## desktop environment
 parrot-gnome
