@@ -15,14 +15,14 @@ function helper() {
 USAGE
  	 ./build.sh <action> [<variant> <arch> <version>]
 
-EXPLAINATION
+EXPLANATION
 
       action  - help, build
                 the action to be performed by this program
                 help will show this message, build will start
                 the build if correctly combined with variant, arch and version
 
-      variant - full, lite, studio, libre,
+      variant - security, home, studio, libre,
                 variant-gnome, variant-kde,
                 variant-lxde, variant-xfce,
 		variant-cinnamon
